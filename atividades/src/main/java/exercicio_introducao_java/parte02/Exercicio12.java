@@ -1,6 +1,5 @@
-package estruturas_de_decisao.parte02;
+package exercicio_introducao_java.parte02;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
 public class Exercicio12 {

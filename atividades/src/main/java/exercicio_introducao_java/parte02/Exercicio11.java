@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte02;
+package exercicio_introducao_java.parte02;
 
 import java.util.Scanner;
 

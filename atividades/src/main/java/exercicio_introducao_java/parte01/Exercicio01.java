@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte01;
+package exercicio_introducao_java.parte01;
 
 public class Exercicio01 {
     public static void main (String[] args){

@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte01;
+package exercicio_introducao_java.parte01;
  //K = C + 273.15
 import java.util.Scanner;
 

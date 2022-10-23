@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte01;
+package exercicio_introducao_java.parte01;
 
 // C = K - 273.15
 

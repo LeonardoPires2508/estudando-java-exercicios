@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte01;
+package exercicio_introducao_java.parte01;
 
 // F = C * (9.0/5.0) + 32
 

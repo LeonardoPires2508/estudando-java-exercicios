@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte01;
+package exercicio_introducao_java.parte01;
 
 // C = 5.0 * (F - 32)/9.0
 import java.util.Scanner;

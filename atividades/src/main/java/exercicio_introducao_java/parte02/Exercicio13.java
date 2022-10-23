@@ -1,4 +1,4 @@
-package estruturas_de_decisao.parte02;
+package exercicio_introducao_java.parte02;
 //milhas = km/1.61
 
 import java.util.Scanner;
